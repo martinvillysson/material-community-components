@@ -2,14 +2,13 @@
 
 # compiled output
 /dist
-src/lib/dist
-/src/lib/dist.tgz
+/dist-ts
 /tmp
 /out-tsc
+/test-results
 
 # dependencies
 /node_modules
-package-lock.json
 
 # IDEs and editors
 /.idea
@@ -33,15 +32,10 @@ package-lock.json
 /coverage
 /libpeerconnection.log
 npm-debug.log
+yarn-error.log
 testem.log
 /typings
-
-# e2e
-/e2e/*.js
-/e2e/*.map
 
 # System Files
 .DS_Store
 Thumbs.db
-*.swp
-/.vs/material-community-components

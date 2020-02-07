@@ -1,5 +1,0 @@
-@import 'timer-picker/timer-picker-theme';
-
-@mixin mcc-theme($theme) {
-    @include mcc-timer-picker-theme($theme);    
-}
