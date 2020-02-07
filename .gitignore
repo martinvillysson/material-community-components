@@ -2,7 +2,7 @@
 
 # compiled output
 /dist
-/src/lib/dist
+src/lib/dist
 /src/lib/dist.tgz
 /tmp
 /out-tsc
@@ -44,3 +44,4 @@ testem.log
 .DS_Store
 Thumbs.db
 *.swp
+/.vs/material-community-components
